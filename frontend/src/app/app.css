@@ -30,25 +30,20 @@
 
 aside.logo {
   grid-area: logo;
-  background-color: rgb(112, 51, 255);
 }
 
 header.header {
   grid-area: header;
-  background-color: rgb(51, 255, 119);
 }
 
 aside.menu-area {
   grid-area: menu;
-  background-color: #a00fff;
 }
 
 main.content {
   grid-area: content;
-  background-color: #f33;
 }
 
 footer.footer {
   grid-area: footer;
-  background-color: #1a2f3a;
 }
