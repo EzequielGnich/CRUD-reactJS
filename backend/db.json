@@ -1,14 +1,3 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Gustavo Bracke",
-      "email": "gustavobrck@live.com"
-    },
-    {
-      "id": 2,
-      "name": "Analita Trunca",
-      "email": "analitatr@gmail.com"
-    }
-  ]
+  "users": []
 }
